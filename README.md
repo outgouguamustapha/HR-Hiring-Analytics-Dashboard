@@ -1,24 +1,3 @@
-# HR-Hiring-Analytics-Dashboard
-
-## 📌 Overview
-This project presents a **Power BI HR Hiring Analytics Dashboard** designed to give a complete overview of hiring performance, project progress, and recruitment efficiency.
-It provides HR managers, recruiters, and leadership teams with clear, actionable insights into:
-
-* Hiring progress
-* Candidate funnel stages
-* Applications over time
-* Recruiter workload
-* Timeline and recruitment duration
-* Source effectiveness
-* Key hiring KPIs
-
-The dashboard is built using **Power BI**, **DAX**, and **a well-structured star schema**, following best practices in business intelligence.
-
-## 📊 Dashboard Preview
-
-![Banner](HR%20Dashboard.png)
-
-
 # 🎯 HR Hiring Analytics Dashboard
 
 <div align="center">
@@ -79,7 +58,7 @@ The **HR Hiring Analytics Dashboard** is an enterprise-grade business intelligen
 
 ## 📊 Dashboard Preview
 
-![HR Hiring Analytics Dashboard](Image/Overview2.png)
+![HR Hiring Analytics Dashboard](HR%20Dashboard.png)
 
 ### Dashboard Sections
 
