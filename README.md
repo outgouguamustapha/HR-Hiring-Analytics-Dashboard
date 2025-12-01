@@ -9,7 +9,7 @@
 
 **A comprehensive Power BI solution for tracking hiring performance, optimizing recruitment pipelines, and making data-driven HR decisions**
 
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjBmYTFjYWItODI3Yy00YWM2LTljNjItYmNjNjliNzA5MGY4IiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9) • [Report Issues](#) • [Request Features](#)
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTJjZmE5NDItMWY0OS00NWVmLTkzYzYtMzZkYjgwYzhlNzliIiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9) • [Report Issues](#) • [Request Features](#)
 
 </div>
 
