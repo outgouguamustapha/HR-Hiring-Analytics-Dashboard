@@ -16,7 +16,7 @@ The dashboard is built using **Power BI**, **DAX**, and **a well-structured star
 
 ## 📊 Dashboard Preview
 
-![Banner](main/HR%20Dashboard.png)
+![Banner](HR%20Dashboard.png)
 
 
 # 🎯 HR Hiring Analytics Dashboard
