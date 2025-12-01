@@ -369,14 +369,6 @@ The dashboard implements a **robust star schema** optimized for analytical queri
    - Optimize recruitment budget allocation
    - Ensure alignment with business goals
 
-### Interactive Features
-
-- **🔍 Cross-Filtering**: Click any visual to filter others
-- **🎯 Drill-Down**: Right-click on data points for detailed views
-- **📊 Tooltips**: Hover over visuals for additional information
-- **🔄 Slicers**: Use filters to focus on specific dimensions
-- **📅 Time Navigation**: Adjust date ranges for different periods
-
 ---
 
 ## 🔍 Insights & Analytics
