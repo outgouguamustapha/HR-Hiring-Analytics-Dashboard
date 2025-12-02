@@ -58,7 +58,7 @@ The **HR Hiring Analytics Dashboard** is an enterprise-grade business intelligen
 
 ## 📊 Dashboard Preview
 
-![HR Hiring Analytics Dashboard](HR%20Dashboard.png)
+![HR Hiring Analytics Dashboard](screenshot.png)
 
 ### Dashboard Sections
 
