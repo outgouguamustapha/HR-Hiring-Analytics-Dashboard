@@ -247,7 +247,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Power BI community for inspiration and best practices
 - HR professionals who provided domain expertise
-- Beta testers who offered valuable feedback
 
 ---
 
